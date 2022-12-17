@@ -86,10 +86,17 @@
 
 ### Discord SFX
 
-- Call ringtone
+- Calling someone else
+- Getting called
 - Join call
-- Leave call
+- You leave call
+- Someone else leaves call
+- Join stream
+- Leave stream
+- Launch sound
 - Notification
+- Start streaming
+- Stop streaming
 
 ### FNAF Ambience
 
