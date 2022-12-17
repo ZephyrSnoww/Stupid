@@ -66,11 +66,7 @@
 
 ### Minecraft Cave SFX
 
-I picked the ones I thought were the funniest/most well known/used
-
-- Cave sound 1
-- Cave sound 10
-- Cave sound 13
+- All Minecraft cave sounds
 
 ## Vocals
 
