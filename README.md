@@ -60,6 +60,8 @@
 - Admin card accept
 - Admin card deny
 - Player spawn in
+- Report
+- Start
 - Task complete
 - Task in progress
 - UI hover
