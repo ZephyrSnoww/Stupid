@@ -48,10 +48,17 @@
 
 ### Cartoon SFX
 
-- Bonk
 - Boing
-- Falling
+- Bonk
+- Bullet
+- Explosion
+- Falling (with alternative)
+- Misc 1, 2, & 3
 - Running
+- Screeching to a halt
+- Snore
+- Tiptoe
+- Yaeyaeyaeyae (idfk)
 
 ### Discord SFX
 
