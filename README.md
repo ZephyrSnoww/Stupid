@@ -1,5 +1,16 @@
 # All Sounds in This Pack
 
+- [All Sounds in This Pack](#all-sounds-in-this-pack)
+  - [Music](#music)
+  - [SFX](#sfx)
+    - [Among Us SFX](#among-us-sfx)
+      - [Footsteps](#footsteps)
+    - [Cartoon SFX](#cartoon-sfx)
+    - [Discord SFX](#discord-sfx)
+    - [FNAF Ambience](#fnaf-ambience)
+    - [Minecraft Cave SFX](#minecraft-cave-sfx)
+  - [Vocals](#vocals)
+
 ## Music
 
 - Among us trap remix
