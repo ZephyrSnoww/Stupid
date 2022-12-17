@@ -42,9 +42,22 @@
 ### Among Us SFX
 
 - Emergency meeting
-- Kill
-- Report
-- Round start
+- Sabotage alarm
+- Eject text
+- Impostor kill
+- Gun kill
+- Admin card accept
+- Admin card deny
+- Player spawn in
+- Task complete
+- Task in progress
+- UI hover
+- UI select
+- Vent open
+
+#### Footsteps
+
+- All 8 metal footsteps
 
 ### Cartoon SFX
 
