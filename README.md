@@ -2,9 +2,9 @@
 
 - [All Sounds in This Pack](#all-sounds-in-this-pack)
   - [Music](#music)
+    - [Kevin Macleod](#kevin-macleod)
   - [SFX](#sfx)
     - [Among Us SFX](#among-us-sfx)
-      - [Footsteps](#footsteps)
     - [Cartoon SFX](#cartoon-sfx)
     - [Discord SFX](#discord-sfx)
     - [FNAF Ambience](#fnaf-ambience)
@@ -14,40 +14,64 @@
 ## Music
 
 - Among us trap remix
-- Barely Alive - Rifle Blow Kiss (with cut & low quality)
+- Barely Alive - Rifle Blow Kiss (with cut and low-quality version)
 - Dream speedrun music
+- Driftveil City
 - FNAF 3 bad ending theme
-- Gorillaz - 19-2000 (with cut & low quality)
-- Really Slow Motion - Deadwood (with cut)
+- Gorillaz - 19-2000 (with cut and low-quality version)
+- It's Always Sunny in Philadelphia theme
+- Really Slow Motion - Deadwood (with cut version)
 - Rick Astley - Never Gonna Give You Up
-- Snail's House - Hot Milk (with cut)
-- TF2 spy theme
-- Determination (from Undertale)
-- Whiz Khalifa - See You Again (with cut)
+- Snail's House - Hot Milk (with cut version)
+- TF2 Spy theme
+- Toby Fox - Determination
+- Wiz Khalifa - See You Again (with cut version)
+
+### Kevin Macleod
+
+- Elevator Music
+- Hitman
+- Investigations
+- Monkeys Spinning Monkeys
+- Scheming Weasel
+- Sneaky Adventure
+- Sneaky Snitch
 
 ## SFX
 
+- Airhorn
+- Anime shine
+- Anime sparkle
 - Beeouuuw
 - Boowomp
+- Correct ding
 - Crowd cheering
+- Dixie Horn (with loud version)
 - Dubstep formant bass
 - Emergency alert system sfx
 - Overdriven explosion
 - FNAF 1 jumpscare
+- FNAF 2 hallway ambience
 - GMod ragdoll collision sounds
+- Incorrect buzzer (and variant)
 - iPhone radar alarm
 - Jersey bed creak
+- Wheel Up Signal
 - Kaching
 - Kickball
 - Minecraft anvil
 - Minecraft TNT explosion
+- Mutahar laugh
 - Nokia arabic ringtone
 - Piano riff
 - PVZ level complete
 - Reverb fart
 - Samsung notification
+- Shitty explosion
 - Squeak toy squeak
+- Stone scraping
 - Taco bell bong
+- Tony Hawk Pro Skater combo
 - Vine thud
 - Windows XP shutdown sound
 
@@ -68,9 +92,6 @@
 - UI hover
 - UI select
 - Vent open
-
-#### Footsteps
-
 - All 8 metal footsteps
 
 ### Cartoon SFX
@@ -111,19 +132,25 @@
 
 ## Vocals
 
+- Anime girl wow
 - Bababooey
 - Scout bonk
 - Bruh sound effect
 - Can I has chezburger plz
+- Children cheering
 - Fortnite und drink Cola yippee!! (with yippee only)
 - Get wifi anywhere you go
 - Guy yelling among us
 - Hey apple
 - Hi herbert
 - Holy moly
+- Legalize nuclear bombs
 - Mango on a fork
 - Pussy
+- Shadow wizard money gang
 - Shoop da whoop
+- Sponsored by the shadow government
 - Stop posting about among us
 - You're such a sussy baka
+- Trickstab
 - Want a break from the ads
